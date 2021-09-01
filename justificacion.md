@@ -1,5 +1,6 @@
 ![Sin título](https://user-images.githubusercontent.com/56181889/131756694-8bc8f40c-f7c0-4c16-84a9-3849acf5844d.png)
 ![121412415125](https://user-images.githubusercontent.com/56181889/131756812-987a78e8-ba03-4522-846d-3fadaad366a1.png)
+
 El proyecto consiste en:
 
 Una Caja "player" donde se encuentra todo el layout, usando otra más
