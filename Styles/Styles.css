@@ -127,14 +127,3 @@
     cursor: pointer;
   }
 
-@media (max-width: 375px) {
-    #content {
-      flex-flow: row wrap;
-    }
-  
-    .column {
-      flex: 50%;
-    }
- }
-  
-  
